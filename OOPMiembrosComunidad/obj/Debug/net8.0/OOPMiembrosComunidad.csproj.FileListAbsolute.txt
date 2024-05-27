@@ -1,0 +1,14 @@
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\bin\Debug\net8.0\OOPMiembrosComunidad.exe
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\bin\Debug\net8.0\OOPMiembrosComunidad.deps.json
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\bin\Debug\net8.0\OOPMiembrosComunidad.runtimeconfig.json
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\bin\Debug\net8.0\OOPMiembrosComunidad.dll
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\bin\Debug\net8.0\OOPMiembrosComunidad.pdb
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\OOPMiembrosComunidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\OOPMiembrosComunidad.AssemblyInfoInputs.cache
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\OOPMiembrosComunidad.AssemblyInfo.cs
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\OOPMiembrosComunidad.csproj.CoreCompileInputs.cache
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\OOPMiembrosComunidad.dll
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\refint\OOPMiembrosComunidad.dll
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\OOPMiembrosComunidad.pdb
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\OOPMiembrosComunidad.genruntimeconfig.cache
+C:\Users\Hanser Perez\source\repos\OOPMiembrosComunidad\OOPMiembrosComunidad\obj\Debug\net8.0\ref\OOPMiembrosComunidad.dll
